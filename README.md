@@ -67,18 +67,18 @@ print(df.head())
 | agile.green     | available | $11.99    | $107.99       | 92             | 41     | 5      | name.com                                     |
 | wise.green      | resell    | —         | —             | 98             | 72     | 4      | Sav.com, LLC - 40                            |
 | ace.green       | premium   | $625      | $625          | 88             | 57     | 3      | name.com                                     |
-| content.green   | available | $11.99    | $107.99       | 138            | 40     | 7      | name.com                                     |
+| content.green   | available | $11.99    | $107.99       | 138            | 39     | 7      | name.com                                     |
 | hello.green     | resell    | —         | —             | 130            | 70     | 5      | Sav.com, LLC                                 |
 | business.green  | premium   | $1,950    | $1,950        | 100            | 53     | 8      | namecheap                                    |
 | custom.green    | available | $11.99    | $107.99       | 110            | 39     | 6      | name.com                                     |
 | get.green       | resell    | —         | —             | 88             | 69     | 3      | Sav.com, LLC - 4                             |
-| fast.green      | premium   | $1,250    | $1,250        | 82             | 53     | 4      | name.com                                     |
+| art.green       | premium   | $650      | $650          | 90             | 52     | 3      | namecheap                                    |
 | unify.green     | available | $11.99    | $107.99       | 72             | 38     | 5      | name.com                                     |
 | container.green | resell    | —         | —             | 70             | 65     | 9      | Key-Systems, LLC                             |
-| art.green       | premium   | $650      | $650          | 90             | 52     | 3      | namecheap                                    |
+| true.green      | premium   | $3,125    | $3,125        | 86             | 52     | 4      | name.com                                     |
 | risk.green      | available | $102.98   | —             | 62             | 38     | 4      | namecheap                                    |
 | smart.green     | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC                                 |
-| true.green      | premium   | $3,125    | $3,125        | 86             | 52     | 4      | name.com                                     |
+| fast.green      | premium   | $1,250    | $1,250        | 82             | 52     | 4      | name.com                                     |
 | cozy.green      | available | $11.99    | $107.99       | 110            | 37     | 4      | name.com                                     |
 | live.green      | resell    | —         | —             | 108            | 55     | 4      | Porkbun LLC                                  |
 | game.green      | premium   | $1,250    | $1,250        | 120            | 50     | 4      | name.com                                     |
