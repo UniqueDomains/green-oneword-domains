@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .green one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,264 domains · **Median ask:** $77.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/green`  
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,8 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| howto.green    | available | $11.99    | —             | 76             | 35     | 6      | name.com                                            |
-| makeit.green   | resell    | —         | —             | 82             | 22     | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| howto.green    | available | $11.99    | —             | 76             | 33     | 6      | name.com                                            |
+| makeit.green   | resell    | —         | —             | 82             | 21     | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | Tools.green    | premium   | $350      | $350          | 56             | 40     | 5      | namecheap                                           |
 | payments.green | available | $11.99    | —             | 58             | 33     | 8      | name.com                                            |
 | homes.green    | premium   | $1,250    | —             | 86             | 34     | 5      | name.com                                            |
@@ -74,9 +74,9 @@ print(df.head())
 | quotes.green   | available | $11.99    | —             | 58             | 29     | 6      | name.com                                            |
 | gems.green     | premium   | $1,875    | —             | 70             | 28     | 4      | name.com                                            |
 | blocks.green   | available | $11.99    | —             | 53             | 29     | 6      | name.com                                            |
-| comics.green   | premium   | $625      | —             | 68             | 24     | 6      | name.com                                            |
-| forms.green    | available | $11.99    | —             | 54             | 28     | 5      | name.com                                            |
 | girls.green    | premium   | $625      | —             | 83             | 23     | 5      | name.com                                            |
+| forms.green    | available | $11.99    | —             | 54             | 28     | 5      | name.com                                            |
+| comics.green   | premium   | $625      | —             | 68             | 23     | 6      | name.com                                            |
 | photos.green   | available | $11.99    | —             | 54             | 28     | 6      | name.com                                            |
 | products.green | premium   | $312.50   | —             | 60             | 23     | 8      | name.com                                            |
 | backyard.green | available | $11.99    | —             | 80             | 27     | 9      | name.com                                            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
