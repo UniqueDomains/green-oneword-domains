@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .green one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,264 domains · **Median ask:** $77.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/green`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | payments.green | available | $11.99    | —             | 58             | 33     | 8      | name.com                                            |
 | homes.green    | premium   | $1,250    | —             | 86             | 34     | 5      | name.com                                            |
 | SanDiego.green | available | $11.99    | —             | 74             | 29     | 9      | name.com                                            |
-| etc.green      | premium   | $1,875    | —             | 58             | 34     | 3      | name.com                                            |
+| etc.green      | premium   | $1,875    | —             | 58             | 32     | 3      | name.com                                            |
 | quotes.green   | available | $11.99    | —             | 58             | 29     | 6      | name.com                                            |
 | gems.green     | premium   | $1,875    | —             | 70             | 28     | 4      | name.com                                            |
 | blocks.green   | available | $11.99    | —             | 53             | 29     | 6      | name.com                                            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
