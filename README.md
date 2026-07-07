@@ -1,10 +1,10 @@
-# Available .GREEN One-Word Domains (12,264)
+# Available .GREEN One-Word Domains (12,265)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C264%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C265%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .green one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,264 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,265 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,264 domains · **Median ask:** $77.67 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,265 domains · **Median ask:** $133.30 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/green`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/green`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GREEN one-word domain
 
 ### Files
 
-- `green.csv` — public CSV extract (1,000 rows)
-- `green.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `green.csv`, public CSV extract (1,000 rows)
+- `green.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| howto.green    | available | $11.99    | —             | 76             | 33     | 6      | name.com                                            |
-| makeit.green   | resell    | —         | —             | 82             | 21     | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| Tools.green    | premium   | $350      | $350          | 56             | 40     | 5      | namecheap                                           |
-| payments.green | available | $11.99    | —             | 58             | 33     | 8      | name.com                                            |
-| homes.green    | premium   | $1,250    | —             | 86             | 34     | 5      | name.com                                            |
-| SanDiego.green | available | $11.99    | —             | 74             | 29     | 9      | name.com                                            |
-| etc.green      | premium   | $1,875    | —             | 58             | 32     | 3      | name.com                                            |
-| quotes.green   | available | $11.99    | —             | 58             | 29     | 6      | name.com                                            |
-| gems.green     | premium   | $1,875    | —             | 70             | 28     | 4      | name.com                                            |
-| blocks.green   | available | $11.99    | —             | 53             | 29     | 6      | name.com                                            |
-| girls.green    | premium   | $625      | —             | 83             | 23     | 5      | name.com                                            |
-| forms.green    | available | $11.99    | —             | 54             | 28     | 5      | name.com                                            |
-| comics.green   | premium   | $625      | —             | 68             | 23     | 6      | name.com                                            |
-| photos.green   | available | $11.99    | —             | 54             | 28     | 6      | name.com                                            |
-| products.green | premium   | $312.50   | —             | 60             | 23     | 8      | name.com                                            |
-| backyard.green | available | $11.99    | —             | 80             | 27     | 9      | name.com                                            |
-| Alexis.green   | premium   | $1,107    | $1,107        | 72             | 21     | 6      | namesilo                                            |
-| KFC.green      | available | $102.98   | —             | 74             | 27     | 3      | namecheap                                           |
-| webs.green     | premium   | $625      | —             | 56             | 21     | 4      | name.com                                            |
-| drops.green    | available | $11.99    | —             | 52             | 25     | 5      | name.com                                            |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| CNN.green    | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| bid.green    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 10                            |
+| ace.green    | premium   | $625      | $625          | high           | medium | 3      | name.com                                     |
+| him.green    | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| info.green   | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.                              |
+| Ann.green    | premium   | $1,875    | —             | high           | low    | 3      | name.com                                     |
+| jot.green    | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| chain.green  | resell    | —         | —             | medium         | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| how.green    | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                     |
+| lay.green    | available | $11.99    | —             | medium         | low    | 3      | name.com                                     |
+| shine.green  | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| job.green    | premium   | $625      | —             | high           | low    | 3      | name.com                                     |
+| ole.green    | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| charge.green | resell    | —         | —             | high           | low    | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
+| mad.green    | premium   | $625      | —             | medium         | medium | 3      | name.com                                     |
+| pre.green    | available | $11.99    | —             | medium         | low    | 3      | name.com                                     |
+| clever.green | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                  |
+| mao.green    | premium   | $1,875    | —             | medium         | low    | 3      | name.com                                     |
+| roi.green    | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| simply.green | resell    | —         | —             | medium         | medium | 6      | Sav.com, LLC - 24                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,264 live domains                        |
+| 1,000-row public sample | 12,265 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .green domains. The strongest names tend to pair a clear dictionary word with an obvious environmental, sustainable, natural, or modern brand angle. Examples such as campus.green, traction.green, install.green, snack.green, and alabaster.green show the range: some feel commercial and practical, while others are more conceptual. When comparing these domains, start with word quality, then test whether the .green ending adds meaning or creates friction. The median ask is 77.52, which keeps entry cost modest, but selection quality matters more than volume in a niche extension.
+This list is limited to one-word domain names on the .green extension, a TLD closely tied to sustainability, wellness, and everyday lifestyle themes. It includes 12,265 names, from playful terms like playin.green to descriptive picks like solarpower.green, giving a clear view of how single-word .green names are priced and positioned across a wide range of categories.
 
-- Prefer words that gain meaning from the .green ending
-- Check whether the word is easy to say and spell
-- Low ask can help, but renewal fit still matters
-- Avoid words with obvious trademark exposure
+- 12,265 one-word .green domains tracked in this selection
+- Median asking price near $133 across the set
+- Includes brandable picks like backyard.green and playin.green
+- Covers everyday words spanning lifestyle, home, and eco themes
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
