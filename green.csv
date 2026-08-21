@@ -399,7 +399,7 @@ b617efe8-51e2-4ba0-abe3-8488d64d9893,successful.green,available,11.99,,high,low,
 0ed5b12d-ad77-4ff4-9470-38e5b58ae1e5,raised.green,available,11.99,,high,low,6,name.com,,
 f3abbb8d-96d9-4acf-b231-aa8f0f97c847,retained.green,available,11.99,,medium,low,8,name.com,,
 fd81468f-5aed-4878-952f-a2088660ee82,athletic.green,premium,1875,1875,high,low,8,name.com,,
-c6052881-8e4a-4613-b979-b1fd3c095267,production.green,resell,,,high,low,10,Dynadot Inc,05/02/2026 17:00,05/02/2027 17:00
+c6052881-8e4a-4613-b979-b1fd3c095267,production.green,resell,,,medium,low,10,Dynadot Inc,05/02/2026 17:00,05/02/2027 17:00
 1c1fcf1e-de37-42f9-9207-0218cd868db1,sum.green,premium,625,625,medium,low,3,name.com,,
 22d38d82-5083-4ec4-9608-723334db3f29,teaplant.green,available,11.99,,high,low,9,name.com,,
 b7ce4cab-f243-457e-b1e0-af1b96dc1b0e,rushed.green,available,11.99,,medium,low,6,name.com,,
@@ -496,7 +496,7 @@ f271c4fc-a917-4fa6-be21-f8ceb05f94d5,aeriferous.green,available,11.98,102.98,low
 2940aa61-3861-4e89-9240-e7da2da507cd,watchful.green,available,11.98,102.98,low,low,8,namecheap,,
 6641ed5e-ba5b-4f3c-a583-666cda73ff18,tasting.green,available,11.99,,high,low,7,name.com,,
 8cbcd1d0-f653-4110-9e52-2b1bf3b08f0c,standto.green,available,11.99,,low,low,8,name.com,,
-cad95b62-2725-4a4c-9082-5999353f193d,goodbye.green,available,11.99,,high,low,8,name.com,,
+cad95b62-2725-4a4c-9082-5999353f193d,goodbye.green,available,11.98,102.98,medium,low,8,namecheap,,
 24ccb23e-93f2-4a43-84ac-8d696863e996,refundable.green,available,11.99,,high,low,10,name.com,,
 60a5e1e2-1f40-45c5-9a5b-bace059293aa,bachelor.green,available,11.99,,high,low,8,name.com,,
 9ebf07ec-2c26-43d8-9d2e-b8a544c0baa6,beast.green,premium,302.5,302.5,medium,low,5,namesilo,,
