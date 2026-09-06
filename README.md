@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .green one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,246 domains · **Median ask:** $78.09 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/green`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| windy.green  | available | $11.99    | —             | high           | low    | 5      | name.com                                     |
 | CNN.green    | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
 | bid.green    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 10                            |
 | ace.green    | premium   | $625      | $625          | high           | medium | 3      | name.com                                     |
@@ -84,6 +83,7 @@ print(df.head())
 | clever.green | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                  |
 | mao.green    | premium   | $1,875    | —             | medium         | low    | 3      | name.com                                     |
 | lxi.green    | available | $11.98    | $102.98       | low            | low    | 3      | namecheap                                    |
+| simply.green | resell    | —         | —             | medium         | medium | 6      | Sav.com, LLC - 24                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
