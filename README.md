@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .green one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,523 domains · **Median ask:** $63.32 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/green`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,11 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| climate.green | premium   | $1,107    | $1,107        | high           | low    | 7      | namesilo                                     |
+| perfect.green | premium   | $625      | —             | high           | low    | 7      | name.com                                     |
 | cnn.green     | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
 | bid.green     | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 10                            |
-| ace.green     | premium   | $625      | $625          | high           | medium | 3      | name.com                                     |
+| ace.green     | premium   | $640      | $640          | medium         | low    | 3      | namesilo                                     |
 | him.green     | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
 | info.green    | resell    | —         | —             | high           | medium | 4      | NameCheap, Inc.                              |
 | ann.green     | premium   | $1,875    | —             | high           | low    | 3      | name.com                                     |
@@ -74,16 +76,14 @@ print(df.head())
 | shine.green   | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
 | how.green     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                     |
 | jot.green     | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
-| charge.green  | resell    | —         | —             | high           | low    | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
+| clever.green  | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                  |
 | job.green     | premium   | $625      | —             | high           | low    | 3      | name.com                                     |
 | lay.green     | available | $11.99    | —             | medium         | low    | 3      | name.com                                     |
-| clever.green  | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                  |
-| mad.green     | premium   | $625      | —             | medium         | medium | 3      | name.com                                     |
-| lvi.green     | available | $11.98    | $102.98       | low            | low    | 3      | namecheap                                    |
 | simply.green  | resell    | —         | —             | medium         | medium | 6      | Sav.com, LLC - 24                            |
-| mao.green     | premium   | $1,875    | —             | medium         | low    | 3      | name.com                                     |
-| lxi.green     | available | $11.98    | $102.98       | low            | low    | 3      | namecheap                                    |
+| mad.green     | premium   | $625      | $625          | low            | low    | 3      | name.com                                     |
+| lvi.green     | available | $11.98    | $102.98       | low            | low    | 3      | namecheap                                    |
 | genesis.green | resell    | —         | —             | medium         | low    | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
+| mao.green     | premium   | $1,875    | —             | medium         | low    | 3      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
