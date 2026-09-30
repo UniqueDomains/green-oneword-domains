@@ -1,10 +1,10 @@
-# Available .GREEN One-Word Domains (26,027)
+# Available .GREEN One-Word Domains (28,260)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C027%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C260%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .green one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,027 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,260 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,027 domains · **Median ask:** $106.27 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 28,260 domains · **Median ask:** $102.04 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/green`
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | ari.green   | available | $14.99    | $79.99        | high           | medium | 3      | namesilo          |
 | story.green | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 14 |
-| art.green   | premium   | $273.41   | $546.35       | high           | medium | 3      | porkbun           |
-| bum.green   | available | $11.98    | $102.98       | medium         | low    | 3      | namecheap         |
-| hai.green   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo          |
+| art.green   | premium   | $517.70   | $517.70       | high           | medium | 3      | spaceship         |
 | cxl.green   | available | $11.98    | $102.98       | high           | low    | 3      | namecheap         |
-| ira.green   | premium   | $550      | $550          | medium         | low    | 3      | dynadot           |
+| hai.green   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo          |
 | dsm.green   | available | $10.55    | $64.37        | medium         | low    | 3      | spaceship         |
+| ira.green   | premium   | $550      | $550          | high           | low    | 3      | dynadot           |
+| fbi.green   | available | $6.64     | $66.56        | high           | low    | 3      | dynadot           |
 | mil.green   | premium   | $1,875    | $1,875        | high           | low    | 3      | name.com          |
-| ilx.green   | available | $11.98    | $102.98       | medium         | low    | 3      | namecheap         |
+| hcl.green   | available | $14.99    | $79.99        | medium         | low    | 3      | namesilo          |
 | pie.green   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo          |
-| jew.green   | available | $14.99    | $79.99        | high           | low    | 3      | namesilo          |
+| hhs.green   | available | $62.20    | $62.20        | high           | low    | 3      | cloudflare        |
 | rep.green   | premium   | $625      | —             | high           | low    | 3      | name.com          |
-| kpa.green   | available | $11.98    | $102.98       | medium         | low    | 3      | namecheap         |
+| ias.green   | available | $10.55    | $64.37        | high           | low    | 3      | spaceship         |
 | sex.green   | premium   | $3,125    | —             | high           | medium | 3      | name.com          |
-| lav.green   | available | $11.98    | $102.98       | medium         | low    | 3      | namecheap         |
+| igg.green   | available | $11.98    | $102.98       | high           | low    | 3      | namecheap         |
 | spa.green   | premium   | $550      | $550          | high           | low    | 3      | dynadot           |
-| mps.green   | available | $14.99    | $79.99        | high           | low    | 3      | namesilo          |
+| ils.green   | available | $6.69     | $64.37        | medium         | low    | 3      | porkbun           |
 | sub.green   | premium   | $1,875    | —             | high           | low    | 3      | name.com          |
-| nag.green   | available | $14.99    | $79.99        | high           | low    | 3      | namesilo          |
+| ilx.green   | available | $11.98    | $102.98       | medium         | low    | 3      | namecheap         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,027 live domains                        |
+| 1,000-row public sample | 28,260 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 15 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GREEN One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
